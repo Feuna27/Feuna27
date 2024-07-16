@@ -6,10 +6,14 @@
 
 📫 Reach me anytime at feunak1427@gmail.com
 
-✨ Linkedin : https://www.linkedin.com/in/feuna-khan-274632251/
+✨ Linktree: https://linktr.ee/feunakhan
+
+✨ Linkedin: https://www.linkedin.com/in/feuna-khan-274632251/
 
 ✨ Leetcode: https://leetcode.com/u/Feuna/
 
 ✨ Hackerrank: https://www.hackerrank.com/profile/Feuna
+
+✨ Codechef: https://www.codechef.com/users/feuna_786
 
 
